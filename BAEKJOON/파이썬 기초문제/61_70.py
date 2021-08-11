@@ -38,4 +38,8 @@ for _ in range(T):
         score += b*a
     print('{0} {1:.1f}'.format(int(sub), score/sub ))
 
+# 별 찍기 - 5
+# t = int(input())
+# for i in range(1, t+1):
+#     print(' '*(t-i)+'*'*(2*i-1))
 

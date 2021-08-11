@@ -1,8 +1,3 @@
-# 별 찍기 - 5
-# t = int(input())
-# for i in range(1, t+1):
-#     print(' '*(t-i)+'*'*(2*i-1))
-
 # 별 찍기 - 7
 # t = int(input())
 
@@ -38,3 +33,9 @@ for _ in range(T):
     cnt += int(input())
           
 print(cnt-(T-1))
+
+# 할로윈의 사탕
+# t = int(input())
+# for _ in range(t):
+#     a, b = map(int, input().split())
+#     print('You get {0} piece(s) and your dad gets {1} piece(s).'.format(a//b,a%b))
