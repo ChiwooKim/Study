@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1bab1c-b290-4a6a-baa1-15f5c38ff97c" name="Default Changelist" comment="" />
+    <list default="true" id="1f1bab1c-b290-4a6a-baa1-15f5c38ff97c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2019_더블더블/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2019_더블더블/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2019_더블더블/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2019_더블더블/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +28,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D1/1938_아주_간단한_계산기/s1.py">
+        <entry file="file://$PROJECT_DIR$/D1/2056_연월일_달력/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="336">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -48,6 +67,24 @@
         <option value="$PROJECT_DIR$/D1/2068_최대수_구하기/input.txt" />
         <option value="$PROJECT_DIR$/D1/1938_아주_간단한_계산기/s1.py" />
         <option value="$PROJECT_DIR$/D1/2068_최대수_구하기/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2019_더블더블/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2019_더블더블/s1.py" />
+        <option value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt" />
+        <option value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" />
+        <option value="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" />
+        <option value="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" />
       </list>
     </option>
   </component>
@@ -77,6 +114,18 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1545_거꾸로_출력해_보아요" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="2056_연월일_달력" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,28 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (3)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2027_대각선_출력하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2027_대각선_출력하기/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/1933_간단한_N의_약수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2019_더블더블" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/1933_간단한_N의_약수/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2019_더블더블/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +178,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2068_최대수_구하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2068_최대수_구하기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2072_홀수만_더하기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2025_N줄덧셈" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2071_평균값_구하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2025_N줄덧셈/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2043_서랍의_비밀번호" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2056_연월일_달력" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2043_서랍의_비밀번호/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s1 (4)" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,26 +314,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D1/1938_계산기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1/1938_계산기/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/1938_계산기/input.txt" />
+    <entry file="file://$PROJECT_DIR$/D1/1938_계산기/s1.py" />
     <entry file="file://$PROJECT_DIR$/D1/2046_스탬프_찍기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -355,9 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D1/2027_대각선_출력하기/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2027_대각선_출력하기/input.txt" />
     <entry file="file://$PROJECT_DIR$/D1/2027_대각선_출력하기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -393,10 +422,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2019_더블더블/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2019_더블더블/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="67" lean-forward="true" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/D1/1938_아주_간단한_계산기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2056_연월일_달력/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D1/2056_연월일_달력/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
