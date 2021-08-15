@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1bab1c-b290-4a6a-baa1-15f5c38ff97c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2019_더블더블/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2019_더블더블/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2019_더블더블/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2019_더블더블/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2029_몫과_나머지_출력하기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2050_알파벳을_숫자로_변환/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2063_중간값_찾기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2063_중간값_찾기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2070_큰놈_작은놈_같은놈/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2071_평균값_구하기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2072_홀수만_더하기/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" afterDir="false" />
-    </list>
+    <list default="true" id="1f1bab1c-b290-4a6a-baa1-15f5c38ff97c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D1/2056_연월일_달력/s1.py">
+        <entry file="file://$PROJECT_DIR$/D2/1928_Base64_Decoder/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -85,6 +66,16 @@
         <option value="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" />
         <option value="$PROJECT_DIR$/D1/2056_연월일_달력/input.txt" />
         <option value="$PROJECT_DIR$/D1/2056_연월일_달력/s1.py" />
+        <option value="$PROJECT_DIR$/D2/1945_간단한_소인수분해/input.txt" />
+        <option value="$PROJECT_DIR$/D2/1945_간단한_소인수분해/s1.py" />
+        <option value="$PROJECT_DIR$/D2/1928_Base64_Decoder/input.txt" />
+        <option value="$PROJECT_DIR$/D2/1928_Base64_Decoder/s1.py" />
+        <option value="$PROJECT_DIR$/D2/1986_지그재그_숫자/input.txt" />
+        <option value="$PROJECT_DIR$/D2/1986_지그재그_숫자/s1.py" />
+        <option value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/input.txt" />
+        <option value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/s1.py" />
+        <option value="$PROJECT_DIR$/D2/1976_시각_덧셈/input.txt" />
+        <option value="$PROJECT_DIR$/D2/1976_시각_덧셈/s1.py" />
       </list>
     </option>
   </component>
@@ -101,7 +92,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -112,24 +102,19 @@
             <path>
               <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="D2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="1545_거꾸로_출력해_보아요" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="D1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="2056_연월일_달력" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="D2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1976_시각_덧셈" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,7 +133,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1">
+  <component name="RunManager" selected="Python.s1 (4)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2/1945_간단한_소인수분해" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1945_간단한_소인수분해/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2019_더블더블" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2/1986_지그재그_숫자" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2019_더블더블/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1986_지그재그_숫자/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/1545_거꾸로_출력해_보아요/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,32 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2072_홀수만_더하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2/1976_시각_덧셈" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2072_홀수만_더하기/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D1/2071_평균값_구하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D1/2071_평균값_구하기/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1976_시각_덧셈/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +265,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -550,8 +535,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/D1/2056_연월일_달력/s1.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1945_간단한_소인수분해/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1945_간단한_소인수분해/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1928_Base64_Decoder/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1986_지그재그_숫자/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1986_지그재그_숫자/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1976_시각_덧셈/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1976_시각_덧셈/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/1928_Base64_Decoder/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
