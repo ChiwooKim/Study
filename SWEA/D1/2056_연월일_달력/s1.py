@@ -15,7 +15,7 @@ def calendar(num):
             return -1
 
     if num[4:6] in ['01', '03', '05', '07', '08', '10', '12']:
-        if not  num[6:8] in day:
+        if not num[6:8] in day:
             return -1
 
     if num[4:6] in ['04', '06', '09', '11']:
