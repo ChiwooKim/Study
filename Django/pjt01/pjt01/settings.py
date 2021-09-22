@@ -33,6 +33,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # 생성한 앱
     'movies',
+    'accounts',
+    'community',
 
     # 써드파티 앱
     'bootstrap5',
