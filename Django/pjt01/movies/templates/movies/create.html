@@ -3,7 +3,7 @@
 
 {% block content %}
   <h1 class="text-center">Movie List Create</h1>
-  <form action="{% url 'movies:create' %}" method="POST">
+  <form action="{% url 'movies:create' %}" method="POST" enctype="multipart/form-data">
     {% csrf_token %}
     {% bootstrap_form form %}
     <button>Create</button>

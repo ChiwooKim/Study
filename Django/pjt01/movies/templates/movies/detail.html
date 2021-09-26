@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% load static %}
 
 {% block content %}
 <h1 class="text-center">{{ movie.title }}</h1>
@@ -6,6 +7,8 @@
   <div class="card">
     {% if movie.image %}
       <img src="{{ movie.image.url }}" alt="pictire">
+    {% else %}
+      <img src="{% static 'movies/mo3.png' %}" alt="sample img">
     {% endif %}
     <div class="card-body">
       <h5 class="card-title text-center">{{ movie.title }}</h5>

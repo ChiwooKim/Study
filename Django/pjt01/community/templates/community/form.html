@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load bootstrap5 %}
+
+{% block content %}
+  <h1 class="text-center" >
+    {% if request.resolver_match.url_name == 'create' %}
+      create
+    {% else %}
+      update
+    {% endif %}
+  </h1>
+  <form action="" method='POST'>
+    {% csrf_token %}
+    {% bootstrap_form form %}
+    
+    <button class='btn btn-primary'>submit</button>
+    
+    {% if request.resolver_match.url_name == 'create' %}
+      <a class='btn btn-primary' href="{% url 'community:index' %}">back</a>
+    {% else %}
+      <a class='btn btn-primary' href="{% url 'community:detail' review.pk %}">back</a>
+    {% endif %}
+  </form>
+{% endblock content %}

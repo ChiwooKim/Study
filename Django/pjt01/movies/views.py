@@ -1,8 +1,8 @@
 from django.shortcuts import render, redirect, get_object_or_404
+from django.contrib.auth.decorators import login_required
 from django.views.decorators.http import require_http_methods
 from .models import Movie
 from .forms import MovieForm
-
 
 
 def index(request):
@@ -12,6 +12,8 @@ def index(request):
     }
     return render(request, 'movies/index.html', context)
 
+
+@login_required
 @require_http_methods(['GET', 'POST'])
 def create(request):
     if request.method == 'POST':
@@ -26,6 +28,8 @@ def create(request):
     }
     return render(request, 'movies/create.html', context)
 
+
+
 def detail(request, movie_pk):
     movie = get_object_or_404(Movie, pk=movie_pk)
     context = {
@@ -33,6 +37,8 @@ def detail(request, movie_pk):
     }
     return render(request, 'movies/detail.html', context)
 
+
+@login_required
 @require_http_methods(['GET', 'POST'])
 def update(request, movie_pk):
     movie = get_object_or_404(Movie, pk=movie_pk)
@@ -49,7 +55,7 @@ def update(request, movie_pk):
     }
     return render(request, 'movies/update.html', context)
 
-
+@login_required
 def delete(request, movie_pk):
     movie = get_object_or_404(Movie, pk=movie_pk)
     if request.method == 'POST':

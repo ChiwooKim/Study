@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1 class="text-center">Movie review</h1>
+  <hr>
+  <ul class="list-group">
+    {% if reviews %}
+      {% for review in reviews %}
+        <a href="{% url 'community:detail' review.pk%}" class="list-group-item list-group-item-action"> {{review.title}} </a>
+      {% endfor %}
+    {% else %}
+      <p>게시글이 존재하지 않습니다.</p>
+    {% endif %}
+  </ul>
+{% endblock content %}

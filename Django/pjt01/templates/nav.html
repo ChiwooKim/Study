@@ -5,7 +5,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
+      <ul class="navbar-nav d-flex align-items-center">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="{% url 'movies:index' %}">Home</a>
         </li>
@@ -14,14 +14,26 @@
         </li>
         {% if request.user.is_authenticated %}
           <li class="nav-item">
-            <a class="nav-link" href="{% url 'community:create' %}">Create</a>
+            <a class="nav-link" href="{% url 'movies:create' %}">영화목록 작성</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{% url 'accounts:logout' %}">Logout</a>
+            <a class="nav-link" href="{% url 'community:create' %}">게시판 글쓰기</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'accounts:update' %}">회원정보수정</a>
+          </li>
+          <li class="nav-item">
+            <h4>Hello, {{ user }}</h4>
+          </li>
+          <li class="nav-item">
+            <form action="{% url 'accounts:logout' %}" method="POST">
+              {% csrf_token %}
+              <input type="submit" value="logout">
+            </form>
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{% url 'accounts:signup' %}">Sign Up</a>
+            <a class="nav-link" href="{% url 'accounts:signup' %}">회원가입</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{% url 'accounts:login' %}">Login</a>

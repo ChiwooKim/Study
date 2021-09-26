@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1 class="text-center" >Detail</h1>
+  <div class="card">
+    <div class="card-header">
+      {{review.movie_title}} (평점:{{ review.rank }})
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">{{ review.title}} </h5>
+      <p class="card-text">{{ review.content }} </p>
+      <form class="d-flex" action="{% url 'community:delete' review.pk %}" method="POST">
+        {% csrf_token %}
+        
+        <a href="{% url 'community:update' review.pk %}" class="btn btn-primary">Edit</a>
+        <button class="btn btn-danger ms-auto">delete</button>
+      </form>
+    </div>
+  </div>
+  <div class="d-flex justify-content-end ">
+    <a class="btn btn-primary m-3" href="{% url 'community:index' %}"> Back </a>
+  </div>  
+{% endblock content %}
+
