@@ -27,6 +27,7 @@ def login(request):
     return render(request, 'accounts/login.html', context)
 
 
+@require_http_methods(['GET', 'POST'])
 def signup(request):
     if request.method == 'POST':
         form = UserCreationForm(request.POST)
@@ -87,7 +88,7 @@ def logout(request):
 
 @require_POST
 def delete(request):
-    if request.use.is_authenticated:
+    if request.user.is_authenticated:
         request.user.delete()
         auth_logout(request)
     return redirect('movies:index')

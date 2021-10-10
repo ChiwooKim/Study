@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f1bab1c-b290-4a6a-baa1-15f5c38ff97c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BAEKJOON/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BAEKJOON/Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/pjt01/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/pjt01/accounts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Django/pjt01/movies/templates/movies/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Django/pjt01/movies/templates/movies/update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TIL/210824.md" beforeDir="false" afterPath="$PROJECT_DIR$/../TIL/210824.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -20,8 +22,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D1/2046_스탬프_찍기/input.txt" />
-        <option value="$PROJECT_DIR$/D1/2046_스탬프_찍기/s1.py" />
         <option value="$PROJECT_DIR$/D1/2058_자릿수_더하기/input.txt" />
         <option value="$PROJECT_DIR$/D1/2058_자릿수_더하기/s1.py" />
         <option value="$PROJECT_DIR$/D1/1936_1대1_가위바위보/input.txt" />
@@ -71,6 +71,8 @@
         <option value="$PROJECT_DIR$/D3/1860_진기의_최고급_붕어빵/s1.py" />
         <option value="$PROJECT_DIR$/D3/3499_퍼펙트_셔플/input.txt" />
         <option value="$PROJECT_DIR$/D3/3499_퍼펙트_셔플/s1.py" />
+        <option value="$PROJECT_DIR$/D4/10966_물놀이를_가자/input.txt" />
+        <option value="$PROJECT_DIR$/D4/10966_물놀이를_가자/s1.py" />
       </list>
     </option>
   </component>
@@ -98,7 +100,13 @@
             <path>
               <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="D3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="D4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SWEA" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D4" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="10966_물놀이를_가자" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -107,7 +115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ssafy6/algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BAEKJOON/Algorithm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -122,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D4/10966_물놀이를_가자" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D2/1288_새로운_불면증_치료법/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/10966_물놀이를_가자/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -274,20 +282,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D1/2058_자릿수_더하기/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D1/1936_1대1_가위바위보/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D1/2025_N줄덧셈/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -614,6 +608,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/10966_물놀이를_가자/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/10966_물놀이를_가자/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
