@@ -2,7 +2,7 @@ import sys
 sys.stdin = open('input.txt')
 
 def solution(record):
-    # 명령어(Enter, Leave, Change)를 구분하기 위해 이중리스트로 불리
+    # 명령어(Enter, Leave, Change)를 구분하기 위해 이중리스트로 분리
     records = []
     for rec in record:
         records += [list(rec.split())]

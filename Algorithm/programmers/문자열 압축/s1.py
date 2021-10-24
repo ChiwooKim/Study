@@ -7,7 +7,7 @@ sys.stdin = open('input.txt')
 '''
 def solution(s):
     str_len = len(s) # 문자열 길이
-    min_len = str_len # 압축 자열의 최소 길이
+    min_len = str_len # 압축 문자열의 최소 길이
 
     # 반복이 되는 것을 압축하기 때문에 문자열 길이의 절반이 최대!
     for i in range(1, int(str_len/2)+1):
