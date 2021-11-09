@@ -115,7 +115,7 @@ Event Target => Node => Element/Document => HTMLElement
 - NodeList
   - idx로만 각 항목에 접근 가능
   - 단, HTMCollection과 달리 배열에서 사용하는 forEach함수 및 다양한 메서드 사용 가능
-- 둘 다 Live Collection으로 DOM의 변경사항을 실시간으로 반영하지만 querySelectorAll()에 의해 반환되는 NodeList는 Static Collection으로 신시간으로 반영되지 않음
+- 둘 다 Live Collection으로 DOM의 변경사항을 실시간으로 반영하지만 querySelectorAll()에 의해 반환되는 NodeList는 Static Collection으로 실시간으로 반영되지 않음
 
 
 
@@ -146,7 +146,7 @@ Event Target => Node => Element/Document => HTMLElement
   - Node 객체와 그 자손의 텍스트 컨텐츠(DOMString)를 표현 (해당 요소 내부의 raw text)
   - 줄 바꿈을 인식하고 숨겨진 내용을 무시하는 등 최종적으로 스타일링이 적용된 모습으로 표현
 - Element.innerHTML
-  - element 내에 포함된 HTML 크업을 반환
+  - element 내에 포함된 HTML 마크업을 반환
   - XSS(Cross-site Scripting) 공격에 취약하기 때문에 사용 시 주의
 
 - ChildNode.remove()

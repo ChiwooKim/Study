@@ -374,7 +374,7 @@
 - array.reduce(callback(acc, element, [index[, array]])[, initialValue]))
   - 배열의 각 요소에 대해 콜백 함수를 한 번씩 실행
   - 콜백 함수의 반환 값들을 하나의 값(acc)에 누적 후 반환
-  - reduce 메서드의 주요 ㅐ개변수
+  - reduce 메서드의 주요 매개변수
     - acc
       - 이전 콜백함수의 반환 값이 누적되는 변수
     - initialValue(optional)
