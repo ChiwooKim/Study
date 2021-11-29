@@ -9,17 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/4406_모음이_보이지_않는_사람/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,8 +17,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/오픈채팅방/s1.py" />
-        <option value="$PROJECT_DIR$/programmers/오픈채팅방/input.txt" />
         <option value="$PROJECT_DIR$/programmers/멀쩡한 사각형/input.txt" />
         <option value="$PROJECT_DIR$/programmers/멀쩡한 사각형/s1.py" />
         <option value="$PROJECT_DIR$/Algorithm/programmers/타겟넘버/input.txt" />
@@ -78,6 +66,8 @@
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/s1.py" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/4406_모음이_보이지_않는_사람/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/4406_모음이_보이지_않는_사람/s1.py" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기/s1.py" />
       </list>
     </option>
   </component>
@@ -119,6 +109,14 @@
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
               <item name="D3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="D3" type="462c0819:PsiDirectoryNode" />
+              <item name="1289_원재의_메모리_복구하기" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (3)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +154,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,27 +225,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/programmers/후보키" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/programmers/후보키/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (4)" />
-        <item itemvalue="Python.s1 (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,9 +271,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20780255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20780255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -284,7 +281,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -311,14 +308,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/programmers/타겟넘버/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/programmers/괄호변환/s1.py" />
     <entry file="file://$PROJECT_DIR$/Algorithm/programmers/오픈채팅방/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -649,8 +638,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/4406_모음이_보이지_않는_사람/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" selection-start-line="3" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="504">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/1289_원재의_메모리_복구하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
