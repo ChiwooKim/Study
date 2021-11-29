@@ -9,8 +9,7 @@ AABAAAAAAAAAABB 와 같은 경우 단방향 보다 중간에 역방향으로 다
 
 def solution(name):
     # 각 알파벳에서 정방향, 역방향 중 가까운 방향을 찾아서 그 횟수를 리스트로 만든다.
-    idx = 0
-    answer = 0
+
     updown_stick = []
     for i in name:
         updown_stick.append(min(ord(i) - ord('A'), 26-(ord(i) - ord('A'))))
