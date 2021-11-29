@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/programmers/순위 검색/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/programmers/순위 검색/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/programmers/조이스틱/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/programmers/조이스틱/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/SWEA/D3/13218_조별과제/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/SWEA/D3/13218_조별과제/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +21,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programmers/기능개발/input.txt" />
-        <option value="$PROJECT_DIR$/programmers/기능개발/s1.py" />
         <option value="$PROJECT_DIR$/programmers/124 나라의 숫자/input.txt" />
         <option value="$PROJECT_DIR$/programmers/124 나라의 숫자/s1.py" />
         <option value="$PROJECT_DIR$/programmers/오픈채팅방/s1.py" />
@@ -82,6 +70,8 @@
         <option value="$PROJECT_DIR$/Algorithm/programmers/후보키/s1.py" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/s1.py" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/s1.py" />
       </list>
     </option>
   </component>
@@ -123,14 +113,6 @@
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
               <item name="D3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="D3" type="462c0819:PsiDirectoryNode" />
-              <item name="조별과제" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -154,7 +136,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1">
+  <component name="RunManager" selected="Python.s1 (1)">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,27 +171,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/programmers/순위 검색/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/programmers/조이스틱" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/programmers/조이스틱/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -285,9 +267,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20780255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20780255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -296,7 +277,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3283582" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -323,8 +304,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programmers/오픈채팅방/s1.py" />
-    <entry file="file://$PROJECT_DIR$/programmers/오픈채팅방/input.txt" />
     <entry file="file://$PROJECT_DIR$/programmers/멀쩡한 사각형/input.txt" />
     <entry file="file://$PROJECT_DIR$/programmers/멀쩡한 사각형/s1.py" />
     <entry file="file://$PROJECT_DIR$/Algorithm/programmers/타겟넘버/input.txt">
@@ -632,17 +611,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/input.txt">
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/13218_조별과제/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/조별과제/s1.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/13218_조별과제/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="360">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3431_준환이의_운동관리/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
