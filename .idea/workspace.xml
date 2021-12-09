@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py">
+        <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="108">
+              <caret line="3" selection-start-line="3" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -39,8 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/programmers/순위 검색/input.txt" />
-        <option value="$PROJECT_DIR$/Algorithm/programmers/예상 대진표/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm/programmers/예상 대진표/s1.py" />
         <option value="$PROJECT_DIR$/Algorithm/programmers/후보키/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm/programmers/조이스틱/s1.py" />
@@ -90,6 +86,8 @@
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3456_직사각형_길이찾기/s1.py" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/s1.py" />
       </list>
     </option>
   </component>
@@ -138,7 +136,7 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
               <item name="D3" type="462c0819:PsiDirectoryNode" />
-              <item name="3142_영준이와_신비한_뿔의_숲" type="462c0819:PsiDirectoryNode" />
+              <item name="10200_구독자_전쟁" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,28 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (4)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/12221_구구단" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/12221_구구단/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,13 +245,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -336,20 +334,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/programmers/게임 맵 최단거리/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/programmers/예상 대진표/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="26" column="51" lean-forward="true" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/programmers/순위 검색/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -648,8 +632,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="288">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/SWEA/D3/10200_구독자_전쟁/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" selection-start-line="3" selection-end-line="23" />
         </state>
       </provider>
     </entry>
