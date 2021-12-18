@@ -146,7 +146,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (3)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/12004_구구단1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/10726_이진수_표현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/12004_구구단1/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/10726_이진수_표현/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
