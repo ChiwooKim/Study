@@ -13,4 +13,3 @@ for tc in range(int(input())):
     result = sorted(list(result))
 
     print('#{} {}'.format(tc+1, result[-5]))
-
