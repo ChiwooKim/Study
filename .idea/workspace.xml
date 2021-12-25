@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="햄버거 다이어트">
+    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="기차사이의 거리, nodejs강의 입문">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +146,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssafy_2021_1119_1500_license/MyCar_20211119/Template_Python/Bot_Python" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
+  <component name="RunManager" selected="Python.s1 (5)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/4047_영준이의_카드_카운팅" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/3809_화섭이의_정수_나열" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/4047_영준이의_카드_카운팅/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/3809_화섭이의_정수_나열/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640248370190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="기차사이의 거리, nodejs강의 입문">
+      <created>1640340868778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640340868778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -353,7 +360,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="일요일, 부분 수열의 합" />
     <MESSAGE value="햄버거 다이어트" />
-    <option name="LAST_COMMIT_MESSAGE" value="햄버거 다이어트" />
+    <MESSAGE value="기차사이의 거리, nodejs강의 입문" />
+    <option name="LAST_COMMIT_MESSAGE" value="기차사이의 거리, nodejs강의 입문" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
