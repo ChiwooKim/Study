@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="세가지 합 구하기">
+    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="승률비교하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/SWEA/D3/11315_오목판정/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/SWEA/D3/11315_오목판정/s1.py" afterDir="false" />
     </list>
@@ -317,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640614856035</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="승률비교하기">
+      <created>1640700653672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640700653672</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,7 +393,8 @@
     <MESSAGE value="기차사이의 파리, 화섭이의 정수나열" />
     <MESSAGE value="수의 새로운 연산" />
     <MESSAGE value="세가지 합 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="세가지 합 구하기" />
+    <MESSAGE value="승률비교하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="승률비교하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
