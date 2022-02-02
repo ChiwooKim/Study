@@ -5,7 +5,6 @@
 > nodejs는 여러일들을 처리할 수 있는 역량을 가지고 있지만 특히, server쪽에 위치하면서 빠르고 편리하게 serverfh 들어오는 요청을 응답하는 application을 만드는 기반에 초점을 두고있다.
 
 
-
 ## 설치 및 오리엔테이션
 
 JS라는 언어로 웹 브라우저를 제어하거나 node.js를 제어할 수 있다. 
@@ -74,7 +73,7 @@ http.createServer((req, res) => {
   - -m : 공백만 없애는 것이 아닌 지역변수처럼 이름을 바꿔도 상관없는 변수이름들을 한글자의 가장 짧은 문자로 바꿔준다.
   - uglifyjs [파일명.js] -o [파일명.min.js] -m : 파일명1의 파일을 파일명2로 간소화시켜 저장(min은 간소화 했다는 것을 파일명에 표기한 것, 규칙과도 같다.)
 - 현재 디렉토리를 패키지화 하기(나)
-  -  npm init
+  - npm init
   - entry point - 어떤 js가 패키지를 구동시키는 js를 지정
   - test command - 패키지에서 어떤 명령어를 실행시키면 테스트를 실행시키는 것
   - git repository - git에 올리기 위한 주소.
@@ -85,9 +84,14 @@ http.createServer((req, res) => {
   - 일시적으로 사용할 때는 --save를 사용하지 않으며, 프로젝트에 반드시 필요할 땐 --save를 붙여 dependecies안에 포함시킨다.(의존성 명시적으로 표시)
 
 
+### router
+> 사용자의 요청을 어떤  controller에 전달해줄지 정하는 중개자의 역할을 수행
 
-
-
+## 정적인 파일을 서비스 하는법
+```javacsript
+// 정적 파일(public: 정적인 파일이 위치한 dir)
+app.use(express.static('public'));
+```
 
 
 
