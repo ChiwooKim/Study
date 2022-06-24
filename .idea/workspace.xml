@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="n-queen(bfs)">
+    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="노드의 합(트리)">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,53 +154,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssafy_2021_1119_1500_license/MyCar_20211119/Template_Python/Bot_Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A_test" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
-    <configuration name="2839_설탕배달" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/BAEKJOON/Algorithm/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/BAEKJOON/Algorithm/Greedy/2839_설탕배달.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/1215_회문1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/1215_회문1/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D4\1224_계산기3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5178_노드의합" />
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5247_연산" />
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5202_화물도크" />
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5201_컨테이너_운반" />
+      <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5189_전자카트" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,11 +179,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/2806_N-Queen" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5247_연산" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/2806_N-Queen/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5247_연산/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D2/5186_이진수2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D2/5186_이진수2/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5188_최소합" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5188_최소합/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5607_조합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5205_퀵정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5607_조합/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5205_퀵정렬/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/4789_성공적인_공연_기획" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5178_노드의합" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/4789_성공적인_공연_기획/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5178_노드의합/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1 (5)" />
-        <item itemvalue="Python.2839_설탕배달" />
-        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
+        <item itemvalue="Python.s1 (5)" />
+        <item itemvalue="Python.s1 (3)" />
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +396,203 @@
       <option name="project" value="LOCAL" />
       <updated>1643447575587</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="미로2(bfs)">
+      <created>1643900148004</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643900148004</updated>
+    </task>
+    <task id="LOCAL-00016" summary="계산기3(stack)">
+      <created>1644243082705</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1644243082705</updated>
+    </task>
+    <task id="LOCAL-00017" summary="보급로(큐)">
+      <created>1644501855570</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1644501855570</updated>
+    </task>
+    <task id="LOCAL-00018" summary="중위순회">
+      <created>1644589412417</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644589412417</updated>
+    </task>
+    <task id="LOCAL-00019" summary="길찾기(dfs)">
+      <created>1645453450471</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1645453450471</updated>
+    </task>
+    <task id="LOCAL-00020" summary="쇠막대기 자르기(stack)">
+      <created>1645454986288</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1645454986288</updated>
+    </task>
+    <task id="LOCAL-00021" summary="계산기2">
+      <created>1645537564718</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1645537564718</updated>
+    </task>
+    <task id="LOCAL-00022" summary="사칙연산(후위순회)">
+      <created>1645538897170</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1645538897170</updated>
+    </task>
+    <task id="LOCAL-00023" summary="미로1(BFS)">
+      <created>1645622553523</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1645622553524</updated>
+    </task>
+    <task id="LOCAL-00024" summary="하나로">
+      <created>1645711757896</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1645711757896</updated>
+    </task>
+    <task id="LOCAL-00025" summary="창용마을 무리의 개수(Disjoint Set)">
+      <created>1646059505217</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1646059505217</updated>
+    </task>
+    <task id="LOCAL-00026" summary="입국심사(Binary Search)">
+      <created>1646124377180</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646124377180</updated>
+    </task>
+    <task id="LOCAL-00027" summary="가장 빠른 문자열 타이핑">
+      <created>1646232899441</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1646232899441</updated>
+    </task>
+    <task id="LOCAL-00028" summary="사다리">
+      <created>1646316762750</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1646316762750</updated>
+    </task>
+    <task id="LOCAL-00029" summary="인수의 생일 파티">
+      <created>1646402960878</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1646402960878</updated>
+    </task>
+    <task id="LOCAL-00030" summary="이진수(dict)">
+      <created>1646490372904</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1646490372904</updated>
+    </task>
+    <task id="LOCAL-00031" summary="전기버스2(재귀)">
+      <created>1646550643652</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1646550643652</updated>
+    </task>
+    <task id="LOCAL-00032" summary="전자카트">
+      <created>1646657624651</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1646657624651</updated>
+    </task>
+    <task id="LOCAL-00033" summary="컨테이너 운반(Greedy)">
+      <created>1646749580808</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1646749580808</updated>
+    </task>
+    <task id="LOCAL-00034" summary="화물 도크(Greedy)">
+      <created>1646828237853</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1646828237853</updated>
+    </task>
+    <task id="LOCAL-00035" summary="병합정렬">
+      <created>1646924292940</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1646924292940</updated>
+    </task>
+    <task id="LOCAL-00036" summary="그룹 나누기">
+      <created>1647004074802</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1647004074802</updated>
+    </task>
+    <task id="LOCAL-00037" summary="이진탐색">
+      <created>1647096178575</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1647096178575</updated>
+    </task>
+    <task id="LOCAL-00038" summary="최소합(완전 탐색)">
+      <created>1647181230223</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1647181230223</updated>
+    </task>
+    <task id="LOCAL-00039" summary="연산(queue)">
+      <created>1647263074833</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1647263074833</updated>
+    </task>
+    <task id="LOCAL-00040" summary="이진수2">
+      <created>1647352253996</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352253996</updated>
+    </task>
+    <task id="LOCAL-00041" summary="퀵 정렬">
+      <created>1647439104570</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1647439104570</updated>
+    </task>
+    <task id="LOCAL-00042" summary="노드의 합(트리)">
+      <created>1649687795742</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1649687795742</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,21 +655,32 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="일요일, 부분 수열의 합" />
-    <MESSAGE value="햄버거 다이어트" />
-    <MESSAGE value="기차사이의 거리, nodejs강의 입문" />
-    <MESSAGE value="기차사이의 파리, 화섭이의 정수나열" />
-    <MESSAGE value="수의 새로운 연산" />
-    <MESSAGE value="세가지 합 구하기" />
-    <MESSAGE value="승률비교하기" />
-    <MESSAGE value="오목 판정" />
-    <MESSAGE value="digit sum" />
-    <MESSAGE value="통역사 성경이" />
-    <MESSAGE value="성공적인 공연 기획" />
-    <MESSAGE value="설탕 배달" />
-    <MESSAGE value="조합: 페르마의 소정리를 이용(정수론)" />
-    <MESSAGE value="n-queen(bfs)" />
-    <option name="LAST_COMMIT_MESSAGE" value="n-queen(bfs)" />
+    <MESSAGE value="중위순회" />
+    <MESSAGE value="길찾기(dfs)" />
+    <MESSAGE value="쇠막대기 자르기(stack)" />
+    <MESSAGE value="계산기2" />
+    <MESSAGE value="사칙연산(후위순회)" />
+    <MESSAGE value="미로1(BFS)" />
+    <MESSAGE value="하나로" />
+    <MESSAGE value="창용마을 무리의 개수(Disjoint Set)" />
+    <MESSAGE value="입국심사(Binary Search)" />
+    <MESSAGE value="가장 빠른 문자열 타이핑" />
+    <MESSAGE value="사다리" />
+    <MESSAGE value="인수의 생일 파티" />
+    <MESSAGE value="이진수(dict)" />
+    <MESSAGE value="전기버스2(재귀)" />
+    <MESSAGE value="전자카트" />
+    <MESSAGE value="컨테이너 운반(Greedy)" />
+    <MESSAGE value="화물 도크(Greedy)" />
+    <MESSAGE value="병합정렬" />
+    <MESSAGE value="그룹 나누기" />
+    <MESSAGE value="이진탐색" />
+    <MESSAGE value="최소합(완전 탐색)" />
+    <MESSAGE value="연산(queue)" />
+    <MESSAGE value="이진수2" />
+    <MESSAGE value="퀵 정렬" />
+    <MESSAGE value="노드의 합(트리)" />
+    <option name="LAST_COMMIT_MESSAGE" value="노드의 합(트리)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
