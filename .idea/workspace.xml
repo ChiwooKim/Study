@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Algorithm/SWEA/D3/3142_영준이와_신비한_뿔의_숲/s1.py" line="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="Lv1 신고 결과 받기">
+    <list default="true" id="5116ca9a-e6b4-40c0-bb33-6a79d3a5f0fa" name="Default Changelist" comment="9084 동전">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,13 +152,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A_test" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D4\1224_계산기3" />
@@ -167,28 +169,7 @@
       <recent name="C:\Users\Chiwoo\Desktop\Study\Algorithm\SWEA\D3\5189_전자카트" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14555_공과_잡초" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14555_공과_잡초/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1">
     <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5247_연산" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14178_1차원_정원" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5247_연산/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14178_1차원_정원/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +199,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D2/5186_이진수2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/13547_팔씨름" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D2/5186_이진수2/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/13547_팔씨름/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14361_숫자가_같은_배수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14361_숫자가_같은_배수/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5205_퀵정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14692_통나무_자르기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5205_퀵정렬/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/14692_통나무_자르기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5178_노드의합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/programmers/짝지어 제거하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/SWEA/D3/5178_노드의합/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/programmers/짝지어 제거하기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.s1 (5)" />
         <item itemvalue="Python.s1 (3)" />
         <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +598,49 @@
       <option name="project" value="LOCAL" />
       <updated>1656058172333</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="공과 잡초">
+      <created>1662797071326</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1662797071326</updated>
+    </task>
+    <task id="LOCAL-00045" summary="숫자가 같은 배수">
+      <created>1662797967948</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1662797967948</updated>
+    </task>
+    <task id="LOCAL-00046" summary="1차원 정원">
+      <created>1662895890524</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1662895890524</updated>
+    </task>
+    <task id="LOCAL-00047" summary="팔씨름">
+      <created>1662896448788</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1662896448788</updated>
+    </task>
+    <task id="LOCAL-00048" summary="통나무 자르기">
+      <created>1662979626664</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1662979626664</updated>
+    </task>
+    <task id="LOCAL-00049" summary="9084 동전">
+      <created>1679461110812</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1679461110812</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -659,12 +703,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="길찾기(dfs)" />
-    <MESSAGE value="쇠막대기 자르기(stack)" />
-    <MESSAGE value="계산기2" />
-    <MESSAGE value="사칙연산(후위순회)" />
-    <MESSAGE value="미로1(BFS)" />
-    <MESSAGE value="하나로" />
     <MESSAGE value="창용마을 무리의 개수(Disjoint Set)" />
     <MESSAGE value="입국심사(Binary Search)" />
     <MESSAGE value="가장 빠른 문자열 타이핑" />
@@ -684,7 +722,13 @@
     <MESSAGE value="퀵 정렬" />
     <MESSAGE value="노드의 합(트리)" />
     <MESSAGE value="Lv1 신고 결과 받기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lv1 신고 결과 받기" />
+    <MESSAGE value="공과 잡초" />
+    <MESSAGE value="숫자가 같은 배수" />
+    <MESSAGE value="1차원 정원" />
+    <MESSAGE value="팔씨름" />
+    <MESSAGE value="통나무 자르기" />
+    <MESSAGE value="9084 동전" />
+    <option name="LAST_COMMIT_MESSAGE" value="9084 동전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
